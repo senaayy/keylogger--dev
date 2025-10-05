@@ -31,3 +31,5 @@ $env:SMTP_PORT     = "587"
 - Test için formdaki "Test Email Gönder" butonunu kullanabilirsiniz
 - Gizli bilgiler depoya eklenmez; sadece ortam değişkenlerinden sağlanır
 - Kullanımda yerel yasa ve kurallara uyulmalıdır
+## Youtube linki 
+https://youtu.be/L4itmcJ6XNI
