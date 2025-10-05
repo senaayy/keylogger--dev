@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.sln.docstates
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+_ReSharper*/
+*.DotSettings.user
+TestResults/
+*.publishsettings
+*.pfx
+*.snk
+# NuGet
+packages/
+*.nupkg
+# Build
+*.exe
+*.dll
+*.pdb
+# OS
+Thumbs.db
+.DS_Store
+# Secrets (never commit)
+.env
+secrets.json
+
